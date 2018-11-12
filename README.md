@@ -1,2 +1,5 @@
 # packettracer
-A try to build Snap for Packettracer
+## CISCO Packet Tracer repository for Linux !
+### Currently maintained and tested for:
+#### - Ubuntu 18.04
+#### - Debian
